@@ -15,9 +15,6 @@
     <AssemblyName>netstandard</AssemblyName>
     <AssemblyVersion>2.1.0.0</AssemblyVersion>
   </AssemblyInfo>
-  <TypeParameters>
-    <TypeParameter Name="TResult" />
-  </TypeParameters>
   <Base>
     <BaseTypeName>System.Delegate</BaseTypeName>
   </Base>
